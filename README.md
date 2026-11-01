@@ -1,0 +1,1 @@
+# Implementação de dois modelos, um simliar à U-Net e outro similar a uma Fully Convolutional Network (FCN), com o objetivo de comparar as duas arquiteturas em uma tarefa de segmentação semântica de imagens.
